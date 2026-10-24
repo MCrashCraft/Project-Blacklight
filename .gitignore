@@ -1,0 +1,13 @@
+.env
+*.key
+*.pem
+*.pfx
+*.dpapi.xml
+servers.dat
+api.json
+server-groups.json
+node_modules/
+build/
+world/
+world_nether/
+world_the_end/
